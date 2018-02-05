@@ -1,6 +1,6 @@
 {
    "status": "200",
-   [
+   "data": [
       {
          "object_or_array": "object",
          "empty": false,
